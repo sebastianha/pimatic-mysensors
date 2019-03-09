@@ -32,7 +32,7 @@
     "MySensors"
   ],
   "dependencies": {
-    "serialport": "~2.0.6"
+    "serialport": "*"
   },
   "peerDependencies": {
     "pimatic": ">=0.8.0 <1.0.0"
